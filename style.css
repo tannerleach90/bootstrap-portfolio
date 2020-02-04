@@ -1,9 +1,13 @@
 body{
-    background-color: lightgray;
+    background-color: rgb(172, 231, 255);
 }
 
 .container{
-    background-color: white;
+    background-color: rgb(243, 243, 243);
     margin-top: 30px;
     padding: 50px;
+}
+
+h5{
+    text-align: center;
 }
